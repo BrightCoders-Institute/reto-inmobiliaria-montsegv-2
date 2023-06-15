@@ -19,8 +19,8 @@ export default CardImage = ( {item} ) => {
 const styles = StyleSheet.create({
   image: {
     resizeMode: 'cover',
-    width: 110,
-    height: 115,
+    width: 100,
+    height: 105,
     borderRadius: 10,
     marginRight: 14
   },
@@ -28,11 +28,11 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     position: 'absolute',
     backgroundColor: '#FBEDB7',
-    borderRadius: 12,
+    borderRadius: 9,
     paddingVertical: 4,
     paddingHorizontal: 8,
-    top: 86,
-    left: 30,
+    top: 77,
+    left: 25,
   },
   points: {
     marginLeft: 5,

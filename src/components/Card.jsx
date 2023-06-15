@@ -1,7 +1,7 @@
 import React from 'react';
 import {View, Text, StyleSheet } from 'react-native';
 import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
-import {faLocationDot, faBed, faToilet, faRulerCombined} from '@fortawesome/free-solid-svg-icons';
+import {faLocationDot, faBed, faBath, faRulerCombined} from '@fortawesome/free-solid-svg-icons';
 
 export default Card = ({item}) => {
   return (
@@ -16,7 +16,7 @@ export default Card = ({item}) => {
         <View style={styles.containerRow}>
           <FontAwesomeIcon icon={faBed} color={'#4B4B4B'}/>
           <Text style={styles.number}>{item.rooms}</Text>
-          <FontAwesomeIcon icon={faToilet} color={'#4B4B4B'}/>
+          <FontAwesomeIcon icon={faBath} color={'#4B4B4B'}/>
           <Text style={styles.number}>{item.bathrooms}</Text>
           <FontAwesomeIcon icon={faRulerCombined} color={'#4B4B4B'}/>
           <Text style={styles.number}>{item.area}</Text>
@@ -32,10 +32,10 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   title: {
-    fontSize: 18,
     color: '#000000',
     fontFamily: 'Poppins-Regular',
-    marginBottom: 6
+    fontSize: 16,
+    marginBottom: 6,
   },
   address: {
     marginLeft: 4,
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   price: {
     fontWeight: 'bold',
     color: '#000000',
-    fontSize: 20,
-    marginTop: 6
+    fontSize: 17,
+    marginTop: 12
   },
 })
