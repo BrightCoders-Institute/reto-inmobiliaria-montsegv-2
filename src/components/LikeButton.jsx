@@ -1,12 +1,22 @@
-import React from 'react'
-import {View, StyleSheet } from 'react-native'
+import React, {useState} from 'react'
+import {View, StyleSheet, Pressable } from 'react-native'
 import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome'
 import {faHeart} from '@fortawesome/free-solid-svg-icons';
 
 export default LikeButton = () => {
+
+  const [liked, setLiked] = useState(false)
+
   return (
       <View style={styles.containerHeart}>
-        <FontAwesomeIcon icon={faHeart} size={14} color={'white'}/>
+
+        <Pressable onPress={() => setLiked(!liked)}>
+          <FontAwesomeIcon 
+            icon={faHeart} 
+            size={14} 
+            color={liked ? 'red' : 'white'}
+          />
+        </Pressable>
       </View>
   )
 }
