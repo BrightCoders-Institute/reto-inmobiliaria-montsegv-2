@@ -1,0 +1,74 @@
+{
+    "apartments": [
+      {
+        "title": "The Willows 1",
+        "img": "https://blog.inmobiliariacarbonell.com/wp-content/uploads/chalets-modernos-planos-5.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "calification": "4.7",
+        "rooms": "4",
+        "bathrooms": "3",
+        "area": "368 ft2",
+        "price": "$400/m"
+      },
+      {
+        "title": "Orchard House",
+        "img": "https://blog.inmobiliariacarbonell.com/wp-content/uploads/chalets-modernos-planos-5.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "calification": "4.7",
+        "rooms": "4",
+        "bathrooms": "3",
+        "area": "368 ft2",
+        "price": "$400/m"
+      },
+      {
+        "title": "The Willows 3",
+        "img": "https://blog.inmobiliariacarbonell.com/wp-content/uploads/chalets-modernos-planos-5.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "calification": "4.7",
+        "rooms": "4",
+        "bathrooms": "3",
+        "area": "368 ft2",
+        "price": "$400/m"
+      },
+      {
+        "title": "Orchard House 2",
+        "img": "https://blog.inmobiliariacarbonell.com/wp-content/uploads/chalets-modernos-planos-5.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "calification": "4.7",
+        "rooms": "4",
+        "bathrooms": "3",
+        "area": "368 ft2",
+        "price": "$400/m"
+      },
+      {
+        "title": "The Willows 5",
+        "img": "https://blog.inmobiliariacarbonell.com/wp-content/uploads/chalets-modernos-planos-5.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "calification": "4.7",
+        "rooms": "4",
+        "bathrooms": "3",
+        "area": "368 ft2",
+        "price": "$400/m"
+      },
+      {
+        "title": "Orchard House 3",
+        "img": "https://blog.inmobiliariacarbonell.com/wp-content/uploads/chalets-modernos-planos-5.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "calification": "4.7",
+        "rooms": "4",
+        "bathrooms": "3",
+        "area": "368 ft2",
+        "price": "$400/m"
+      },
+      {
+        "title": "The Willows 7",
+        "img": "https://blog.inmobiliariacarbonell.com/wp-content/uploads/chalets-modernos-planos-5.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "calification": "4.7",
+        "rooms": "4",
+        "bathrooms": "3",
+        "area": "368 ft2",
+        "price": "$400/m"
+      }
+    ]
+  }
