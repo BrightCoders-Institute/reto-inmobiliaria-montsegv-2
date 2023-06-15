@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, TouchableOpacity } from 'react-native';
+import { View, Text, TouchableOpacity, StyleSheet} from 'react-native';
 import Card from '../components/Card';
 import CardImage from '../components/CardImage';
 import LikeButton from '../components/LikeButton';
@@ -28,4 +28,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default CardDetailsScreen
+export default CardDetailsScreen;
