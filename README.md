@@ -15,18 +15,18 @@ Nombre, dirección, número de habitaciones, número de baños, superficie, cost
 
 ##Como instalar y correr el proyecto
 
-El primer paso y el mas importante es clonar el repositiorio remoto para correrlo de forma local.
+- El primer paso y el mas importante es clonar el repositiorio remoto para correrlo de forma local.
 
 ```
 git clone [url del repositorio
 ```
 
-Despues, el siguente paso será instalar dependencias y módulos que requiere el proyecto para ejecutarse correctamente
+- Despues, el siguente paso será instalar dependencias y módulos que requiere el proyecto para ejecutarse correctamente
 
 ```
 npm install
 ```
-Para ejecutar el funcionamiento principal del programa, se debe ejecutar el siguiente comando en la terminal:
+- Para ejecutar el funcionamiento principal del programa, se debe ejecutar el siguiente comando en la terminal:
 
 ```
 npx react-native start
@@ -34,7 +34,7 @@ npx react-native start
 
 ## Créditos
 
-| [<img src="https://avatars.githubusercontent.com/u/116055107?v=4" width=115><br><sub>Montserrat Aguilar Valle</sub>](https://github.com/camilafernanda) |    
+| [<img src="https://avatars.githubusercontent.com/u/116055107?v=4" width=115><br><sub>Montserrat Aguilar Valle</sub>](https://github.com/montsegv-2) |    
 | :---: |
 
 ## Badges
