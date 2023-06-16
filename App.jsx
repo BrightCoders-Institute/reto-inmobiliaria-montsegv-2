@@ -1,6 +1,6 @@
 import React from 'react';
-import { SafeAreaView, Text } from 'react-native-safe-area-context';
-import HomeScreen from './screens/HomeScreen';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import HomeScreen from './src/screens/HomeScreen';
 
 function App() {
   return (

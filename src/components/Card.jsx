@@ -8,12 +8,12 @@ export default Card = ({item}) => {
       <View>
         <Text style={styles.title}>{item.title}</Text>
 
-        <View style={styles.containerRow}>
+        <View style={styles.container}>
           <FontAwesomeIcon icon={faLocationDot} color={'#4B4B4B'}/>
           <Text style={styles.address}>{item.location}</Text>
         </View>
 
-        <View style={styles.containerRow}>
+        <View style={styles.container}>
           <FontAwesomeIcon icon={faBed} color={'#4B4B4B'}/>
           <Text style={styles.number}>{item.rooms}</Text>
           <FontAwesomeIcon icon={faBath} color={'#4B4B4B'}/>
@@ -28,12 +28,11 @@ export default Card = ({item}) => {
 }
 
 const styles = StyleSheet.create({
-  containerRow: {
+  container: {
     flexDirection: 'row',
   },
   title: {
     color: '#000000',
-    fontFamily: 'Poppins-Regular',
     fontSize: 16,
     marginBottom: 6,
   },
@@ -42,7 +41,6 @@ const styles = StyleSheet.create({
     marginBottom: 8
   },
   number: {
-    fontFamily: 'Poppins-Regular',
     fontWeight: 'bold',
     color: '#000000',
     marginRight: 28,
