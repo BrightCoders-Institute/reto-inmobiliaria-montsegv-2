@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94cf03f9982d4b1f9b140fa8fdac027b)](https://app.codacy.com/gh/BrightCoders-Institute/reto-inmobiliaria-montsegv-2?utm_source=github.com&utm_medium=referral&utm_content=BrightCoders-Institute/reto-inmobiliaria-montsegv-2&utm_campaign=Badge_Grade)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/z5kNBBhk)
 ![BrightCoders Logo](img/logo.png)
 
