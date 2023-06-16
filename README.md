@@ -1,5 +1,7 @@
 # App Inmobiliaria 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/z5kNBBhk)
+
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
 ![BrightCoders Logo](img/logo.png)
 
 > [Ver instrucciones antes de iniciar](./instructions.md)
@@ -24,9 +26,16 @@ Despues, el siguente paso será instalar dependencias y módulos que requiere el
 ```
 npm install
 ```
+Para ejecutar el funcionamiento principal del programa, se debe ejecutar el siguiente comando en la terminal:
+
+```
+npx react-native start
+```
 
 ## Créditos
 
+| [<img src="https://avatars.githubusercontent.com/u/116055107?v=4" width=115><br><sub>Montserrat Aguilar Valle</sub>](https://github.com/camilafernanda) |    
+| :---: |
 
 ## Badges
 | Analizador | Calificación|
